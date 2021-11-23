@@ -10,12 +10,12 @@ Bem vindo ao site da disciplina de Estrutura_da_Materia_II_UFJF_2021_03 no GitHu
     Junções Josephson e a Teoria de Ginzburg-Landau,                             - Gustavo Oliveira da Silva
     Quantização do Fluxo Magnético.                                              - Renan Silva de Araújo
 
-```markdown
 
 2- Modelos Nucleares.
     Composição dos Núcleos,                                                      - Guilherme Camanho Costa
     Estabilidade dos Núcleos e Modelo do Gás de Fermi,                           - Orlando Luiz de Oliveira
     Espalhamento de Elétrons e Raio Nuclear,                                     - Brunna Medeiros
+```
 
 # Capítulo 14
 
