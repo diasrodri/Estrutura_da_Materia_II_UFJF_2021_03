@@ -42,14 +42,7 @@ Syntax highlighted code block
 
 ## Superfluidez e Supercondutividade
 
-<head>
-  <script src="include-html.min.js"></script>
-</head>
-<body>
-  <div data-include="Intro14_1.html"></div>
-</body>
-
-
+More details about the project are available from the [Intro14_1](Intro14_1).
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
