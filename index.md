@@ -28,8 +28,6 @@ Bem vindo ao site da disciplina de Estrutura_da_Materia_II_UFJF_2021_03 no GitHu
 
 
 
-
-
  # Building Websites in GitHub
              
  ## Description
