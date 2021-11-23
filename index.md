@@ -28,7 +28,6 @@ Introdução - [Intro14_1](Intro14_1).
 
 
 
-More details about the project are available from the [About page](about).
 
 
  # Building Websites in GitHub
