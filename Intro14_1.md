@@ -5,9 +5,9 @@
 
 
 {% raw %}
-  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+  $$a^2 + b^2 = c^2$$ 
  {% endraw %}
- 
+note that all equations between these tags will not need escaping! 
  
 Supercondutividade e superfluidez fazem parte de uma galeria de fenômenos
 mais notáveis que são observados na matéria. Substâncias com essas propriedades são
