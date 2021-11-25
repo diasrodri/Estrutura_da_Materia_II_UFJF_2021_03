@@ -9,7 +9,7 @@
  {% endraw %}
 note that all equations between these tags will not need escaping! 
 
-\[ d^2 \vec{c}\]
+\[$ d^2 \vec{c}$\]
  
 Supercondutividade e superfluidez fazem parte de uma galeria de fenômenos
 mais notáveis que são observados na matéria. Substâncias com essas propriedades são
