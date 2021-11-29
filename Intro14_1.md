@@ -4,6 +4,10 @@
 ### 14.1 Introdução
 
 
+$$\LaTeX code$$   (for display)
+\\[\LaTeX code\\] (also for display)
+\\(\LaTeX code\\) (for inline)
+
 {% raw %}
   $$a^2 + b^2 = c^2$$ 
  {% endraw %}
