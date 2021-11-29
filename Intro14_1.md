@@ -1,5 +1,5 @@
 {% include navigation.html %}
-
+{% include head.html %}
 
 ### 14.1 Introdução
 
