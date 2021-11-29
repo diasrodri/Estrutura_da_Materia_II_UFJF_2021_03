@@ -1,16 +1,20 @@
 {% include navigation.html %}
+
 {% include head.html %}
 
 ### 14.1 Introdução
 
 
 $$\LaTeX code$$   (for display)
+
 \\[\LaTeX code\\] (also for display)
+
 \\(\LaTeX code\\) (for inline)
 
 {% raw %}
   $$a^2 + b^2 = c^2$$ 
  {% endraw %}
+ 
 note that all equations between these tags will not need escaping! 
 
 \[$ d^2 \vec{c}$\]
