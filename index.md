@@ -22,11 +22,11 @@ Bem vindo ao site da disciplina de Estrutura_da_Materia_II_UFJF_2021_03 no GitHu
 
 # Capítulo 14 - Superfluidez e Supercondutividade
 
-### 14.1 - Introdução - [Intro14_1](Intro14_1).
+###  [14.1 - Introdução](Intro14_1).
 
-### 14.2 - Aspectos Experimentais de Superfluidos - [Asp_Exp_Superfluidos_14_2](Asp_Exp_Superfluidos_14_2).
+###  [14.2 - Aspectos Experimentais de Superfluidos](Asp_Exp_Superfluidos_14_2).
 
-###  [14.3- Condensação de Bose-Einstein ](14.3-CBE).
+###  [14.3- Condensação de Bose-Einstein](_episodes/14.3-CBE).
 
 
  # Building Websites in GitHub
