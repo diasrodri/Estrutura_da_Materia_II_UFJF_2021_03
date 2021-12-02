@@ -30,13 +30,6 @@ Bem vindo ao site da disciplina de Estrutura_da_Materia_II_UFJF_2021_03 no GitHu
 
 
 
-###  [14.3- Condensação de Bose-Einstein](14.3-CBE).
-
-
-{{ site.baseurl }}{% link _episodes/14.3-CBE.md %}
-
-{% link _episodes/14.3-CBE.md %}
-
  # Building Websites in GitHub
              
  ## Description
