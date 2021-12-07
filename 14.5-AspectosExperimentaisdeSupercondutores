@@ -1,1 +1,254 @@
 
+{% include navigation.html %}
+
+ASPECTOS EXPERIMENTAIS
+DE
+SUPERCONDUTORES
+E
+EQUAÇÃO DE LONDON
+
+Sidney Pinheiro Duarte Santana – Matrícula: 201765800E
+E-mail: sidneypinheiroduartesantana@gmail.com
+
+1- ASPECTOS EXPERIMENTAIS DE SUPERCONDUTORES
+1.1 – A Descoberta dos Supercondutores e a relação entre campo
+magnético externo e Temperatura Crítica
+Medindo o valor da resistência elétrica R(Ω) do mercúrio em função da
+temperatura T(K), Kamerling descobriu a supercondutividade em 1911. Obtendo o
+Gráfico 01 abaixo:
+
+O que Kamerling descobriu e que podemos analisar, em especifico para o
+mercúrio no Gráfico 01 acima, que existe Temperatura Critica Tc para os materiais
+onde a resistência elétrica do material se torna praticamente R = 0,000 Ω, ou seja, o
+material nessa temperatura não oferece resistência a passagem de corrente elétrica
+por ele, dessa forma conduz a energia elétrica sem perda. No caso do mercúrio, para o
+gráfico acima, temos Tc = 4,20 K.
+Caso a esse material seja aplicado um Campo Magnético Externo que possa ser
+ajustado assumindo diferentes valores e nessas condições feito uma analise do(s)
+valor(es) que Tc assume, chegando a conclusão quanto maior o valor de menor se o
+valor de Tc.
+Na Figura 01 abaixo temos o mesmo material onde é aplicado um Campo
+Magnético Externo ajustável, onde esse é aumentado de para , mantendo a direção e
+o sentido, em consequência a Temperatura Critica diminui de Tc 1 para Tc 2 .
+
+Agindo assim, aumentando , chegaremos a um valor denominado Campo
+Magnético Critico c, onde para qualquer valor que o Campo Magnético assuma acima
+desse a supercondutividade deixará de existir, não haverá mais uma Temperatura
+Critica Tc abaixo da qual a Resistencia Elétrica seja R = 0,000 Ω, isto é, sempre existirá
+um determinada perda na condução da corrente elétrica seja qual for a temperatura.
+O Gráfico 02 abaixo mostra o comportamento da Temperatura Critica Tc
+relacionada aos diversos valores de Campo Magmático Externo aplicado ao chumbo,
+onde poderemos fazer a seguinte analisar:
+a) Para 0 &lt; B(T) &lt; Bc(0) = Bc, teremos uma determinada Temperatura Critica em T(K)
+caracterizando supercondução;
+b) B(T) = 0, quando o Campo Magnético Externo for zero teremos um valor máximo
+possível para a Temperatura Critica Tc caracterizando supercondução;
+c) B(T) = Bc = Bc(0), quando o Campo Magnético Externo Critico for máximo em seu
+valor possível a Temperatura Critica Tc = 0K perdendo a propriedade de
+supercondução;
+d)) Não teremos supercondutividade para o B(T) &gt; Bc(0)=Bc.
+
+1.2 – Tipos de Supercondutores
+Os materiais supercondutores podem ser divididos em dois tipos:
+a) Tipo I: Materiais Monoatômicos Simples são macios;
+b) Tipo II: Ligas ou Cerâmicas são duros.
+Na Tabela 01 abaixo temos os supercondutores do Tipo I e do Tipo II e seus valores
+Tc quando B = 0 e Bc(0) quando T = 0.
+
+No Gráfico 03 abaixo temos geral para todos os materiais da Tabela 01.
+
+1.3 – Modelagem matemática somente pela Física Clássica
+Seja um material a uma temperatura T maior que a critica (T &gt; Tc) e em um
+Campo Magnético Externo pequeno, menor que o Campo Magnético Externo Critico
+(&lt; ). Então o material é resfriado reduzindo T, em consequência após T atingir Tc, ou
+seja T=Tc, torna-se um supercondutor, conduz uma corrente elétrica sem perdas, isto
+é, R = 0 Ω. Assim matematicamente temos:
+ℇ = R i
+
+Onde ℇ é a f.e.m. no supercondutor, i é a corrente elétrica que passa no
+supercondutor e R é a resistência elétrica no supercondutor, como sabemos R = 0 Ω.
+Partido de ℇ = R i e como R = 0 Ω, temos:
+ℇ = 0 *i
+ℇ = 0 V
+Logo em um supercondutor temos ℇ = 0 V
+Pela Lei de Faraday temos:
+Seja Campo Magnético Interno ao supercondutor, �� Bi é o fluxo magnético
+desse vetor e A a área transversal desse supercondutos na qual atravessa, assim
+temos ℇ = - e como ℇ = 0 V,
+
+ℇ = - = 0
+= 0
+= 0
+=
+�� Bi = C, onde Cℇℛ, C é uma constante.
+
+Também temos:
+
+�� Bi = e como �� Bi = C, temos,
+= C
+
+Logo pela Física Clássica o interior do supercondutor suporta um Campo
+Magnético no interior do supercondutor desde que seja constante.
+1.4 – O Efeito Meissner
+
+Contrariando os resultados Clássicos a anteriormente descritos, em 1933
+Meissner e Ochsenfeld obtiveram resultados através de experimentos mostrando que
+quando resfriamos um supercondutor para uma temperatura T, sendo essa
+temperatura menor ou igual a temperatura critica Tc, ou seja T ≤ Tc, e existindo um
+Campo Magnético Externo constante ao supercondutor, nessas condições, as linhas
+de campo de são expulsas da região interna do material. Dessa forma o Campo
+Magnético Interno (igual a Campo Magnético Resultante ) é igual a zero.
+Abaixo temos a Figura 02 mostrando Efeito Meissner.
+Temos um material supercondutor imerso em um Campo Magnético Externo
+Constante , com temperatura T variando, sendo T &gt;Tc ou T≤Tc;
+Na Figura 02a) temos T&gt;Tc onde podemos observar que o Campo Magnético
+passa no Interior do matéria, teremos um Campo Magnético Interior Resultante = , ou
+seja, ≠ 0 .
+Na Figura 02b) temos o Efeito Meissner pois T ≤ Tc, o material se torna
+supercondutor e o Campo Magnético é expelido do interior do material resultando em
+seu interior a anulação desse campo , Campo Magnético Interior Resultante = , ou
+seja, = 0.
+
+1.5 – A Explicação para o Efeito Meissner
+
+O Efeito Meissner ocorre pois a supercorrente ou corrente de blindagem
+elétrica, livre de perda, percorre o supercondutor em sua superfície, sendo que sua
+direção e intensidade gera um Campo Magnético Induzido que anula o Campo
+Magnético Externo agindo no interior.
+Assim sendo teremos:
+=
+
+Como o Campo Magnético Resultante Interno é zero, isto é, = 0,
+= 0
+
+O Campo Magnético Induzido faz com que o supercondutor perca energia,
+ocorre uma perda de energia magnética por unidade volume �� B que é dada por:
+�� B = =
+Obs: Sendo = 4π*10 -7 N/A 2 é a permeabilidade magnética no vácuo.
+Como um exemplo de aplicação pratica podemos citar a levitação magnética
+que quando um imã permanente e um supercondutor são dispostos como na Figura 03
+abaixo, resultando na repulsão.
+
+1.6 – Tipos (I e II) de Supercondutores e o Efeito Meissner
+associado
+Através do Gráfico 04a) e 04b) analisaremos o comportamento do campo
+magnético induzido ( multiplicado pela magnetização Mi) em função do campo
+
+magnético externo aplicado ao supercondutor para respectivamente os
+supercondutores do Tipo I e do Tipo II. Assim sendo temos:
+a) O Tipo I no Gráfico 04a) – Nesse Tipo de Supercondutor ocorre o Efeito
+Meissner Completo. Temos uma supercondução Diamagnética Perfeita.
+Apresenta um Campo Magnético Crítico Bc, onde para B ≤ Bc temos o Campo
+Magnético Induzido no supercondutor igual e oposto ao Campo Magnético
+Externo B, ou seja, , então para B ≤ Bc temos um cancelamento total do Campo
+Magnético no interior do material e esse permanece no estado de
+supercondução . Para B &gt;Bc temos que o Campo Magnético penetra no interior
+do material que retorna ao estado natural (não superconduzindo).
+b) O Tipo II no Gráfico 04b) – Esses supercondutores apresentam dois Campos
+Magnéticos Críticos Bc 1 e Bc 2 . Quando B ≤Bc 1 , temos um cancelamento total do
+Campo Magnético no interior do material e esse permanece no estado de
+supercondução. Quando Bc 1 &lt; B ≤ Bc 2 ocorre uma penetração parcial do Campo
+Magnético no interior do material. Quando B &gt; Bc 2 temos que o Campo
+Magnético penetra no interior do material que retorna ao estado natural (não
+superconduzindo).
+
+1.7 – O Efeito Isótopo
+Descoberto experimentalmente em 1950, esse efeito ocorre e se explica pelas
+vibrações da rede cristalina do supercondutor. Nesse efeito a Temperatura Critica Tc
+depende da massa isotópica M do cristal, respeitando a equação abaixo:
+
+M α Tc = K
+Onde α é um parâmetro relacionado a cada material em especifico, K é uma constante.
+Abaixo temos a Tabela 02 que nos fornece os valores de α para alguns materiais.
+
+O Efeito Isótopo é importante porque mostra que as vibrações da rede
+cristalina do supercondutor e as interações elétron-fóton não podem ser desprezadas
+no estudo de supercondutores.
+Caso desprezássemos o Efeito Isotópico, estaríamos considerando que os íons
+da rede cristalina do material supercondutor não se movem, isso equivale a supor que
+para uma rede cristalina onde M → ∞ encontraríamos Tc → 0. Como segue abaixo:
+
+2- EQUAÇÃO DE LONDON
+2.1 – A Modelagem Matemática dos Irmãos London
+
+Em 1935 os irmãos E. London e H. London formularam um modelo para explicar
+o Efeito Meissner da supercondutividade, para isso eles usaram o modelo matemático
+de dois fluidos que explica as propriedades de superfluidez do 4 He.
+Partido do principio que somente parte dos eletros de condução se encontram
+no estado de supercondução, sendo ρ a densidade total de elétrons, ρ n a densidade
+de elétrons normais e ρ s a densidade de elétrons no estado supercondutor. Temos
+então:
+ρ = ρ n + ρ s
+As densidades de elétrons acima descritas dependem da temperatura. Para o
+caso particular da densidade de elétrons no estado supercondutor em função da
+temperatura, ou seja, ρ S (T), temos:
+ρ S (Tc) = 0 e ρ S (0) = ρ
+Por definição temos que a densidade de corrente de supercondução é dada
+por:
+= - ρ s e
+= -
+Onde é a velocidade dos eletros supercondutores, sendo e a carga em Coulomb de um
+elétron q e que vale 1,6*10 -19 C, ou seja, q e = e = 1,6*10 -19 C
+Pela Segunda Lei de Newton temos = m* = m e temos a força elétrica dada por
+= - q e * = - e*
+Onde m é a massa do elétron, é o vetor aceleração, é o vetor força dada pela
+Segunda Lei de Newton, é o vetor campo elétrico e é o vetor força elétrica.
+Igualando as forças temos:
+=
+m = - e*.
+= -
+
+Substituindo = - na equação acima temos:
+
+=
+Pela Lei de Faraday temos:
+= -
+Substituindo = na equação acima temos:
+
+Com a solução particular abaixo encontrada pelos irmãos London,
+= 0 (Equação de London).
+O Efeito Meissner é explicado, pois quando se aplica um campo no supercondutor, a
+variação do fluxo magnético leva ao surgimento de uma densidade de corrente
+supercondutora , que por sua vez produz um campo , que cancela campo .
+É importante ressaltar que a Equação de London somente é valida para
+supercondutores.
+
+2.2 – Aplicando as Equações de Maxwell na Equação de London
+Sejam as Equações de Maxwell:
+=
+ou
+=
+
+Aplicando a equação acima em = 0 (Equação de London) teremos mais
+detalhes do comportamento do Campo Magnético no interior do supercondutor.
+Sendo assim encontraremos:
+= 0
+Como = = - = -, temos:
+= 0
+=
+ou
+
+Sendo um parâmetro denominado comprimento de penetração London.
+Aplicando-se um Campo Magnético em um supercondutor na direção do eixo z
+e estando esse supercondutor alinhado ao longo do eixo x teremos a equação:
+
+Uma solução seria:
+
+Essa equação nos diz que ocorrerá ausência de Campo Magnético somente a
+parir de x= λ L
+
+• Abaixo temos o Gráfico 05 onde está descrito o comportamento
+experimental do comprimento de penetração London λ L em função da
+temperatura T para o caso do chumbo Pb. Podemos observar também,
+representado em vermelho, de forma exagerada propositalmente para
+uma melhor visualização, o comprimento de penetração λ L , Se a partir da
+temperatura de valor T = Tc (onde T/Tc = 1), diminuíssemos T até T→0
+(onde T/Tc →0) , λ L diminuiria até λ L →0, o Campo Magnético seria
+cancelado no interior do material, então esse alcançaria a supercondução.
+Caso a temperatura T fosse T&gt;Tc (onde T/Tc &gt;1), o λ L ocuparia todo o
+interior do material, o Campo Magnético penetraria no seu no interior, o
+material não estaria em supercondução.
+
+REFERENCIA BIBLIOGRÁFICA
+
+LIMA, Carlos Raimundo Andrade. Notas de aula, Cap 14. UFJF
