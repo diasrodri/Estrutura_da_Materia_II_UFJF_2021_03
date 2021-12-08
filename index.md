@@ -32,7 +32,7 @@ Bem vindo ao site da disciplina de Estrutura_da_Materia_II_UFJF_2021_03 no GitHu
 
 ###  [14.7 - Pares de Cooper e a Teoria BCS](14.7-TeoriaBCS).
 
-###  [teste](_posts/teste).
+###  [teste](_posts/teste.md).
 
 
 
